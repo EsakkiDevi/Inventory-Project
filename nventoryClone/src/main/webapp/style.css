@@ -1,0 +1,5 @@
+body { font-family: sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; background: #f0f2f5; margin: 0; }
+.container { background: white; padding: 2em; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); text-align: center; }
+input, button { display: block; width: 100%; margin: 1em 0; padding: 0.8em; border: 1px solid #ddd; border-radius: 4px; box-sizing: border-box; }
+button { background: #007bff; color: white; border: none; cursor: pointer; }
+#message { margin-top: 1em; color: red; }
